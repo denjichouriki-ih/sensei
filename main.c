@@ -15,10 +15,10 @@ int main()
     printf("     `\"Y88b  888    \"     8     `88b.8       `\"Y88b  888    \"     888   \n");
     printf("oo     .d8P  888       o  8       `888  oo     .d8P  888       o  888  \n");
     printf("8\"\"88888P\'  o888ooooood8 o8o        `8  8\"\"88888P\'  o888ooooood8 o888o \n\n");
-    printf("\x1b[1mSENSEI - The 8-bit A.I. \x1b[0m\n");
+    printf("\x1b[1mSENSEI - The 16-bit A.I. \x1b[0m\n");
     printf("\n");
 
-    int inputs_str[5];
+    int inputs_str[8];
 
     for (;;)
     {
